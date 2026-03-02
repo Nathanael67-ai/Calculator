@@ -13,4 +13,34 @@ body{
     position: relative;
     border-radius:10px;
     box-shadow:5px 5px 5px cyan;
+    
+}
+#result{
+    height:120px;
+    border:1px solid blue;
+    position: relative;
+    left:13px;
+    top:12px;
+    width:90%;
+}
+button{
+    font-size: 17.5px;
+    cursor: pointer;
+    height: 50px;
+    width:50px;
+    border-radius:50%;
+    margin:10px;
+    font-weight:bold;
+}
+#keyboard{
+    text-align: center;
+    margin-top:30px;
+    border: 1px solid blue;
+    width:300px;
+    position: relative;
+    left:10px;
+    top:20px;
+}
+#Clear{
+    background-color:rgb(215, 140, 140);
 }
