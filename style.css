@@ -44,3 +44,10 @@ button{
 #Clear{
     background-color:rgb(215, 140, 140);
 }
+input[type="text"]{
+    width:100%;
+    height:100%;
+    background-color:transparent;
+    font-size: 30px;
+    text-align: right;
+}
